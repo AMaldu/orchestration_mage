@@ -1,0 +1,7 @@
+# Dynamic blocks    
+
+A dynaic blck will create multiple downstream blocks at runtime
+
+The number of blocks it creates is equal to the number of items in the output data of the dynamic block multiplied by the number of its downstream blocks
+
+Read more about dynamic blocks in documentation
